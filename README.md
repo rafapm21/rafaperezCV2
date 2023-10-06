@@ -1,1 +1,1 @@
-La hora es las 18:31.
+La fecha de hoy es el 6 de octubre.
